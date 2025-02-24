@@ -1,3 +1,7 @@
 {
-  "origins": ["https://blog.hakochest.cn"]
+  "origins": ["https://blog.hakochest.cn"],
+  "originsRegex": [
+    "http://localhost:[0-9]+"
+  ],
+  "defaultCommentOrder": "oldest"
 }
